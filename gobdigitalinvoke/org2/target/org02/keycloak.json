@@ -1,0 +1,8 @@
+{
+  "realm": "claveunica_org2",
+  "auth-server-url": "http://localhost:8091/auth",
+  "ssl-required": "external",
+  "resource": "claveunica-org2",
+  "public-client": true,
+  "confidential-port": 0
+}
