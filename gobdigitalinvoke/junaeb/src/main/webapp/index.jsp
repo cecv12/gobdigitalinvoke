@@ -5,21 +5,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
     <title>JANAEB SSO</title>
-
-    <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
     <link href="css/custom.css" rel="stylesheet">
-
 </head>
 
 <body>
-
-    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Logo and responsive toggle -->
@@ -34,7 +25,7 @@
 					<img src="img/logo.png" width="150" height="100">
                 </a>
             </div>
-            <!-- Navbar links -->
+
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="nav navbar-nav">
                     <li>
@@ -52,11 +43,8 @@
 						</ul>
 					</li>
                 </ul>
-
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>
 
 	<div class="jumbotron feature" style="color:black">
@@ -66,10 +54,7 @@
 		</div>
 	</div>
 
-    <!-- Content -->
     <div class="container">
-
-        <!-- Feature Row -->
         <div class="row">
             <article class="col-md-4 article-intro">
                 <a href="http://127.0.0.1:8080/junaeb-01/home.jsp">
@@ -97,14 +82,9 @@
                 </h3>
             </article>
         </div>
-        <!-- /.row -->
     </div>
-    <!-- /.container -->
-    <!-- jQuery -->
     <script src="js/jquery-1.11.3.min.js"></script>
-    <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.js"></script>
-	<!-- IE10 viewport bug workaround -->
 	<script src="js/ie10-viewport-bug-workaround.js"></script>
 </body>
 
