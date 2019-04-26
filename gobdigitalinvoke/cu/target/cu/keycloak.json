@@ -1,0 +1,10 @@
+{
+  "realm": "claveunica",
+  "auth-server-url": "http://localhost:8090/auth",
+  "ssl-required": "none",
+  "resource": "claveunica-cliente",
+  "credentials": {
+    "secret": "1d2f050f-20bd-467e-838e-52c41b8ae7b7"
+  },
+  "confidential-port": 0
+}
